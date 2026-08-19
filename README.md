@@ -1,24 +1,22 @@
-# SupaNexus
+# Alex UV Lab
 
-SupaNexus 是面向企业的统一大模型 API 聚合平台。它通过一个 OpenAI 兼容的 API 网关，聚合 DeepSeek、通义、智谱、Kimi 等主流模型，帮助团队统一接入、管理用量并控制成本。
+一个个人技术博客，记录我对人工智能工具、LLM API、MCP 服务器和实用自动化工作流的探索。
 
-## 核心能力
+这里分享可复现的实践笔记、工具选型和接入指南，重点关注如何让 AI 真正服务于日常开发与团队协作。
 
-- **统一接入**：所有模型共用一个 Base URL，兼容 OpenAI API 调用方式。
-- **多模型聚合**：在统一模型目录中选择已上架、当前组织可用的模型。
-- **项目级管理**：通过组织、项目与 API Key 三级结构隔离业务、归因用量。
-- **成本与治理**：提供用量计量、配额预算、余额与账单能力，并支持多 Provider 路由。
+## Topics
 
-## 快速开始
+- AI tools and agent workflows
+- LLM APIs and model evaluation
+- MCP servers and tool integrations
+- Developer automation and practical experiments
 
-1. 前往 [开发者控制台](https://console.supanexus.ai) 注册并创建组织与项目。
-2. 在项目中创建 API Key，并妥善保存完整密钥。
-3. 将客户端 Base URL 配置为 `https://api.supanexus.ai/v1`。
-4. 使用 API Key 调用 `POST /v1/chat/completions`；模型列表可通过 `GET /v1/models` 获取。
+## Articles
+
+- [DeepSeek Harness 最佳搭配：LLM API 精选与接入指南](articles/deepseek-harness-llm-api-guide.md) · [English](articles/deepseek-harness-llm-api-guide.en.md)
+
+## About SupaNexus
+
+部分文章会记录我对 [SupaNexus](https://console.supanexus.ai) 的实践。SupaNexus 是一个统一大模型 API 聚合平台，提供 OpenAI 兼容接口、项目级 API Key 管理和多模型接入能力。
 
 > 请勿将 API Key 提交到代码仓库、日志或其他公开位置。
-
-## 文章
-
-- [DeepSeek Harness 最佳搭配：LLM API 精选与接入指南](articles/deepseek-harness-llm-api-guide.md)
-- [The Best LLM API Pairing for DeepSeek Harness: A Practical Selection and Integration Guide](articles/deepseek-harness-llm-api-guide.en.md)
