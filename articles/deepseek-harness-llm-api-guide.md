@@ -4,6 +4,10 @@
 
 > 想把 DeepSeek Harness 用进真实项目，难点通常不在“能不能跑起来”，而在于模型选择、API 接入、成本可见性和后续扩展能否保持简单。本篇从开发者实际工作流出发，整理一套更稳妥的选择思路。
 
+![SupaNexus：一个 API 接入多模型](../assets/supanexus-one-key-agent.jpg)
+
+*图：SupaNexus 官网首页展示其 OpenAI 兼容、一个 Key 与按量付费的个人开发者入口。来源：[SupaNexus 官网](https://supanexus.ai/)。*
+
 ## 先说结论
 
 如果你正在尝试 DeepSeek Harness 或其他 Agent 型编码工作流，优先选择具备以下特征的 LLM API：
@@ -29,6 +33,10 @@
 
 SupaNexus 是企业级统一大模型网关，聚合多家主流模型，并提供 OpenAI 兼容接口。对 Harness 用户来说，它的价值在于把“换模型”和“换供应商”从代码改造变成配置选择。
 
+![SupaNexus：一个 Key 驱动 Agent](../assets/supanexus-model-catalog.jpg)
+
+*图：官网的 Agent 接入区块，展示一个 Base URL 与项目 Key 可用于 DeepSeek、Qwen、Kimi、GLM 和 MiniMax 等模型。来源：[SupaNexus 官网](https://supanexus.ai/)。*
+
 适合的场景：
 
 - 用 DeepSeek 做代码理解和复杂推理，同时保留尝试其他模型的空间；
@@ -51,6 +59,10 @@ SupaNexus 是企业级统一大模型网关，聚合多家主流模型，并提�
 3. 在控制台的模型目录确认当前项目可用的模型。
 4. 将客户端 Base URL 指向 `https://api.supanexus.ai/v1`。
 5. 先用一个最小请求验证模型与 Key，再将同一组配置交给 Harness。
+
+![SupaNexus 模型与按 Token 计费](../assets/supanexus-token-pricing.jpg)
+
+*图：官网模型市场的按 Token 计费展示；实际可用模型与实时价格请以控制台为准。来源：[SupaNexus 官网](https://supanexus.ai/)。*
 
 下面是使用 OpenAI Python SDK 的通用连通性示例。将 `YOUR_MODEL_ID` 替换为控制台中可用的模型 ID：
 

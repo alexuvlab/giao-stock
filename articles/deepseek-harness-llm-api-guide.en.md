@@ -4,6 +4,10 @@
 
 > Getting DeepSeek Harness into a real project is rarely just about making the first request work. The durable questions are model choice, API integration, cost visibility, and how easily the workflow can grow. This guide offers a practical way to evaluate the options.
 
+![SupaNexus: one API for multiple models](../assets/supanexus-one-key-agent.jpg)
+
+*SupaNexus's homepage presents an OpenAI-compatible, one-key, pay-as-you-go entry point for individual builders. Source: [SupaNexus](https://supanexus.ai/).*
+
 ## The Short Answer
 
 When evaluating an LLM API for DeepSeek Harness or another agentic coding workflow, prioritize four things:
@@ -29,6 +33,10 @@ That is why the harness experience depends on more than the model itself. API po
 
 SupaNexus is an enterprise unified LLM gateway. It aggregates leading models behind an OpenAI-compatible API. For harness users, the main advantage is that switching models and providers becomes a configuration decision rather than an integration rewrite.
 
+![SupaNexus: one key to run an agent](../assets/supanexus-model-catalog.jpg)
+
+*The website's agent integration section shows one Base URL and project key for models including DeepSeek, Qwen, Kimi, GLM, and MiniMax. Source: [SupaNexus](https://supanexus.ai/).*
+
 It is a good fit when you want to:
 
 - Use DeepSeek for code understanding or complex reasoning while keeping room to evaluate other models;
@@ -51,6 +59,10 @@ Local deployment gives you more control, but also adds model serving, GPU capaci
 3. Check the model catalog in the console for models available to the project.
 4. Point your client Base URL to `https://api.supanexus.ai/v1`.
 5. Verify the key and model with a minimal request before passing the same configuration to your harness.
+
+![SupaNexus model catalog and token pricing](../assets/supanexus-token-pricing.jpg)
+
+*The model marketplace section presents token-based pricing. Available models and live prices should always be confirmed in the console. Source: [SupaNexus](https://supanexus.ai/).*
 
 Here is a generic connectivity check using the OpenAI Python SDK. Replace `YOUR_MODEL_ID` with a model ID available in your console:
 
