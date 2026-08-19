@@ -1,5 +1,7 @@
 # DeepSeek Harness 最佳搭配：LLM API 精选与接入指南
 
+[English version](deepseek-harness-llm-api-guide.en.md)
+
 > 想把 DeepSeek Harness 用进真实项目，难点通常不在“能不能跑起来”，而在于模型选择、API 接入、成本可见性和后续扩展能否保持简单。本篇从开发者实际工作流出发，整理一套更稳妥的选择思路。
 
 ## 先说结论
