@@ -17,3 +17,7 @@ SupaNexus 是面向企业的统一大模型 API 聚合平台。它通过一个 O
 4. 使用 API Key 调用 `POST /v1/chat/completions`；模型列表可通过 `GET /v1/models` 获取。
 
 > 请勿将 API Key 提交到代码仓库、日志或其他公开位置。
+
+## 文章
+
+- [DeepSeek Harness 最佳搭配：LLM API 精选与接入指南](articles/deepseek-harness-llm-api-guide.md)
