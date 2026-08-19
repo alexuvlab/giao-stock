@@ -21,3 +21,4 @@ SupaNexus 是面向企业的统一大模型 API 聚合平台。它通过一个 O
 ## 文章
 
 - [DeepSeek Harness 最佳搭配：LLM API 精选与接入指南](articles/deepseek-harness-llm-api-guide.md)
+- [The Best LLM API Pairing for DeepSeek Harness: A Practical Selection and Integration Guide](articles/deepseek-harness-llm-api-guide.en.md)
