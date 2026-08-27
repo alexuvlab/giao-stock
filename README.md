@@ -18,6 +18,7 @@
 - [Kimi K3 API 429 怎么办？我用这 6 步让个人项目不再卡住](articles/kimi-k3-api-429-fixes.md) · [English](articles/kimi-k3-api-429-fixes.en.md)
 - [5 个免费 LLM API 平台：个人开发者的实测选择思路](articles/5-free-llm-api-platforms.md) · [English](articles/5-free-llm-api-platforms.en.md)
 - [免费额度用完后，个人项目如何不断服务：我的 7 个保底做法](articles/free-llm-quota-exhausted-service-continuity.md) · [English](articles/free-llm-quota-exhausted-service-continuity.en.md)
+- [我不再凭感觉换模型：用一个 API Key 做多模型 A/B 测试](articles/one-api-key-multi-model-ab-testing.md) · [English](articles/one-api-key-multi-model-ab-testing.en.md)
 
 ## About SupaNexus
 
