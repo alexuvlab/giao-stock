@@ -20,6 +20,7 @@
 - [免费额度用完后，个人项目如何不断服务：我的 7 个保底做法](articles/free-llm-quota-exhausted-service-continuity.md) · [English](articles/free-llm-quota-exhausted-service-continuity.en.md)
 - [我不再凭感觉换模型：用一个 API Key 做多模型 A/B 测试](articles/one-api-key-multi-model-ab-testing.md) · [English](articles/one-api-key-multi-model-ab-testing.en.md)
 - [我的 MCP Server 不再保存 Session 了：一次 2026 新规范升级踩坑记录](articles/mcp-2026-stateless-migration-notes.md) · [English](articles/mcp-2026-stateless-migration-notes.en.md)
+- [Gemini API 9 月变更：Standard Key 还能用吗？我的无停机迁移实录](articles/gemini-standard-key-auth-key-migration.md) · [English](articles/gemini-standard-key-auth-key-migration.en.md)
 
 ## About SupaNexus
 
