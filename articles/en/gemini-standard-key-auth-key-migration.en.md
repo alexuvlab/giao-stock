@@ -1,6 +1,6 @@
 # Gemini API's September Change: Will My Standard Key Still Work? A No-Downtime Migration Log
 
-[中文版](gemini-standard-key-auth-key-migration.md)
+[中文版](../zh/gemini-standard-key-auth-key-migration.md)
 
 I noticed the Gemini API notice while tidying up a personal project that almost never changes. Nothing was failing. The key was still in an environment variable. That was exactly the uncomfortable part: it was the kind of dependency that looks fine until a user is the first person to discover it is not.
 

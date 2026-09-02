@@ -1,6 +1,6 @@
 # 我的 MCP Server 不再保存 Session 了：一次 2026 新规范升级踩坑记录
 
-[English version](mcp-2026-stateless-migration-notes.en.md)
+[English version](../en/mcp-2026-stateless-migration-notes.en.md)
 
 上周我把一个自己在用的小 MCP Server 升到 2026-07-28 规范。原本以为只是依赖升级，结果调试到凌晨才发现：它不是坏了，而是我还在等一个已经不存在的 Session。
 

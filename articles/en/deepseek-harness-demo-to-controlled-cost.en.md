@@ -1,6 +1,6 @@
 # DeepSeek Harness in Practice: From Demo to Controlled Cost
 
-[中文版](deepseek-harness-demo-to-controlled-cost.md)
+[中文版](../zh/deepseek-harness-demo-to-controlled-cost.md)
 
 > This is not a “connect an agent and everything is solved” tutorial. It is a personal note on turning a DeepSeek Harness demo into something I can keep using: task scope expands, model calls get longer, and bills become hard to explain unless I design for those problems.
 

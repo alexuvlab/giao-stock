@@ -1,6 +1,6 @@
 # 免费额度用完后，个人项目如何不断服务：我的 7 个保底做法
 
-[English version](free-llm-quota-exhausted-service-continuity.en.md)
+[English version](../en/free-llm-quota-exhausted-service-continuity.en.md)
 
 > 个人项目接入 LLM API 时，我几乎都会从免费额度开始。但我后来发现，真正决定项目能不能长期运行的，不是“有没有找到免费的模型”，而是额度归零的那一刻，产品还能不能给用户一个合理的结果。
 

@@ -1,6 +1,6 @@
 # 5 个免费 LLM API 平台：个人开发者的实测选择思路
 
-[English version](5-free-llm-api-platforms.en.md)
+[English version](../en/5-free-llm-api-platforms.en.md)
 
 > 做个人项目时，我通常不会一开始就绑死在单一模型或一次性充值很多额度。更实用的做法是：先用免费模型和试用额度跑通产品，再根据速度、质量、价格和可维护性决定长期方案。
 

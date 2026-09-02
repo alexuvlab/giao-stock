@@ -1,6 +1,6 @@
 # Gemini API 9 月变更：Standard Key 还能用吗？我的无停机迁移实录
 
-[English version](gemini-standard-key-auth-key-migration.en.md)
+[English version](../en/gemini-standard-key-auth-key-migration.en.md)
 
 我是在整理一个几乎不动的个人项目时看到 Gemini API 的提示的。它没有报错，Key 也还在环境变量里；真正让人不安的是那种“现在没事，某天会突然停掉”的状态。
 

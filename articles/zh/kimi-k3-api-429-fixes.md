@@ -1,6 +1,6 @@
 # Kimi K3 API 429 怎么办？我用这 6 步让个人项目不再卡住
 
-[English version](kimi-k3-api-429-fixes.en.md)
+[English version](../en/kimi-k3-api-429-fixes.en.md)
 
 > 我第一次在个人项目里遇到 Kimi K3 的 `429`，直觉是“模型不稳定”。后来排查才发现，429 不是一个单一问题：它可能是请求过快、并发过高、额度窗口耗尽，也可能是服务端短时过载。把它们混在一起重试，只会让问题和成本更糟。
 

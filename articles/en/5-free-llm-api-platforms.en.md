@@ -1,6 +1,6 @@
 # 5 Free LLM API Platforms: A Personal Developer's Shortlist
 
-[中文版](5-free-llm-api-platforms.md)
+[中文版](../zh/5-free-llm-api-platforms.md)
 
 > When I build a side project, I try not to lock myself into one model or preload a large balance on day one. A more useful approach is to validate the product with free models and trial credits first, then choose a long-term path based on quality, latency, cost, and maintainability.
 

@@ -1,6 +1,6 @@
 # My MCP Server Stopped Saving Sessions: Notes from a Rough 2026 Spec Upgrade
 
-[中文版](mcp-2026-stateless-migration-notes.md)
+[中文版](../zh/mcp-2026-stateless-migration-notes.md)
 
 Last week I moved a small MCP server I use for my own projects to the 2026-07-28 specification. I expected a dependency bump. Instead, I spent an evening debugging a server that was waiting for a session the protocol no longer has.
 

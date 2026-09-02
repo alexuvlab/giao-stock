@@ -1,6 +1,6 @@
 # Kimi K3 API 429 Errors: 6 Fixes That Kept My Side Project Running
 
-[中文版](kimi-k3-api-429-fixes.md)
+[中文版](../zh/kimi-k3-api-429-fixes.md)
 
 > The first time my side project hit a Kimi K3 `429`, I assumed the model was unstable. After investigating, I found that 429 is not one problem: it can mean requests are too frequent, concurrency is too high, a quota window is exhausted, or the service is briefly overloaded. Treating every case with more retries makes both reliability and cost worse.
 

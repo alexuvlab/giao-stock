@@ -1,6 +1,6 @@
 # DeepSeek Harness 实战：从 Demo 到可控成本
 
-[English version](deepseek-harness-demo-to-controlled-cost.en.md)
+[English version](../en/deepseek-harness-demo-to-controlled-cost.en.md)
 
 > 这不是一篇“把 Agent 接上就万事大吉”的教程，而是我把一个 DeepSeek Harness Demo 逐步变成可持续个人项目时，反复踩到的三个问题：任务范围会膨胀、模型调用会变长、账单会变得难以解释。
 

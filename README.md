@@ -13,14 +13,14 @@
 
 ## Articles
 
-- [DeepSeek Harness 最佳搭配：LLM API 精选与接入指南](articles/deepseek-harness-llm-api-guide.md) · [English](articles/deepseek-harness-llm-api-guide.en.md)
-- [DeepSeek Harness 实战：从 Demo 到可控成本](articles/deepseek-harness-demo-to-controlled-cost.md) · [English](articles/deepseek-harness-demo-to-controlled-cost.en.md)
-- [Kimi K3 API 429 怎么办？我用这 6 步让个人项目不再卡住](articles/kimi-k3-api-429-fixes.md) · [English](articles/kimi-k3-api-429-fixes.en.md)
-- [5 个免费 LLM API 平台：个人开发者的实测选择思路](articles/5-free-llm-api-platforms.md) · [English](articles/5-free-llm-api-platforms.en.md)
-- [免费额度用完后，个人项目如何不断服务：我的 7 个保底做法](articles/free-llm-quota-exhausted-service-continuity.md) · [English](articles/free-llm-quota-exhausted-service-continuity.en.md)
-- [我不再凭感觉换模型：用一个 API Key 做多模型 A/B 测试](articles/one-api-key-multi-model-ab-testing.md) · [English](articles/one-api-key-multi-model-ab-testing.en.md)
-- [我的 MCP Server 不再保存 Session 了：一次 2026 新规范升级踩坑记录](articles/mcp-2026-stateless-migration-notes.md) · [English](articles/mcp-2026-stateless-migration-notes.en.md)
-- [Gemini API 9 月变更：Standard Key 还能用吗？我的无停机迁移实录](articles/gemini-standard-key-auth-key-migration.md) · [English](articles/gemini-standard-key-auth-key-migration.en.md)
+- [DeepSeek Harness 最佳搭配：LLM API 精选与接入指南](articles/zh/deepseek-harness-llm-api-guide.md) · [English](articles/en/deepseek-harness-llm-api-guide.en.md)
+- [DeepSeek Harness 实战：从 Demo 到可控成本](articles/zh/deepseek-harness-demo-to-controlled-cost.md) · [English](articles/en/deepseek-harness-demo-to-controlled-cost.en.md)
+- [Kimi K3 API 429 怎么办？我用这 6 步让个人项目不再卡住](articles/zh/kimi-k3-api-429-fixes.md) · [English](articles/en/kimi-k3-api-429-fixes.en.md)
+- [5 个免费 LLM API 平台：个人开发者的实测选择思路](articles/zh/5-free-llm-api-platforms.md) · [English](articles/en/5-free-llm-api-platforms.en.md)
+- [免费额度用完后，个人项目如何不断服务：我的 7 个保底做法](articles/zh/free-llm-quota-exhausted-service-continuity.md) · [English](articles/en/free-llm-quota-exhausted-service-continuity.en.md)
+- [我不再凭感觉换模型：用一个 API Key 做多模型 A/B 测试](articles/zh/one-api-key-multi-model-ab-testing.md) · [English](articles/en/one-api-key-multi-model-ab-testing.en.md)
+- [我的 MCP Server 不再保存 Session 了：一次 2026 新规范升级踩坑记录](articles/zh/mcp-2026-stateless-migration-notes.md) · [English](articles/en/mcp-2026-stateless-migration-notes.en.md)
+- [Gemini API 9 月变更：Standard Key 还能用吗？我的无停机迁移实录](articles/zh/gemini-standard-key-auth-key-migration.md) · [English](articles/en/gemini-standard-key-auth-key-migration.en.md)
 
 ## About SupaNexus
 

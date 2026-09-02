@@ -1,6 +1,6 @@
 # The Best LLM API Pairing for DeepSeek Harness: A Practical Selection and Integration Guide
 
-[中文版](deepseek-harness-llm-api-guide.md)
+[中文版](../zh/deepseek-harness-llm-api-guide.md)
 
 > Getting DeepSeek Harness into a real project is rarely just about making the first request work. The durable questions are model choice, API integration, cost visibility, and how easily the workflow can grow. This guide offers a practical way to evaluate the options.
 

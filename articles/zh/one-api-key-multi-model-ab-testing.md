@@ -1,6 +1,6 @@
 # 我不再凭感觉换模型：用一个 API Key 做多模型 A/B 测试
 
-[English version](one-api-key-multi-model-ab-testing.en.md)
+[English version](../en/one-api-key-multi-model-ab-testing.en.md)
 
 我之前给博客的小工具换模型，做法很随意：觉得某个回答不错，就把模型名改掉；过两天遇到一次不好用的结果，又换回来。最后我根本说不清哪个模型更适合我的需求，只记得自己“好像更喜欢”其中一个。
 

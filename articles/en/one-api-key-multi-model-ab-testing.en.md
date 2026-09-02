@@ -1,6 +1,6 @@
 # I Stopped Picking Models by Vibe: A/B Testing Multiple Models with One API Key
 
-[中文版](one-api-key-multi-model-ab-testing.md)
+[中文版](../zh/one-api-key-multi-model-ab-testing.md)
 
 When I used to switch models for a small blog tool, I did it casually: one answer looked good, so I changed the model name; a few days later, one bad response sent me back. I could never explain which model actually fit my use case. I just “felt like” I preferred one of them.
 

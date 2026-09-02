@@ -1,6 +1,6 @@
 # When Free LLM Credits Run Out: 7 Ways I Keep a Side Project Running
 
-[中文版](free-llm-quota-exhausted-service-continuity.md)
+[中文版](../zh/free-llm-quota-exhausted-service-continuity.md)
 
 > I start almost every side project with free LLM credits. What I learned later is that the real test is not finding a free model—it is whether the product can still give a user a sensible result when the balance reaches zero.
 
