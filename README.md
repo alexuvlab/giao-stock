@@ -13,6 +13,7 @@
 
 ## Articles
 
+- [DeepSeek Harness 里的模型越来越多：我为什么先装了一个可搜索的模型选择器](articles/zh/deepseek-harness-searchable-model-picker.md) · [English](articles/en/deepseek-harness-searchable-model-picker.en.md)
 - [DeepSeek Harness 最佳搭配：LLM API 精选与接入指南](articles/zh/deepseek-harness-llm-api-guide.md) · [English](articles/en/deepseek-harness-llm-api-guide.en.md)
 - [DeepSeek Harness 实战：从 Demo 到可控成本](articles/zh/deepseek-harness-demo-to-controlled-cost.md) · [English](articles/en/deepseek-harness-demo-to-controlled-cost.en.md)
 - [Kimi K3 API 429 怎么办？我用这 6 步让个人项目不再卡住](articles/zh/kimi-k3-api-429-fixes.md) · [English](articles/en/kimi-k3-api-429-fixes.en.md)
