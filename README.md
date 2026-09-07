@@ -13,6 +13,7 @@
 
 ## Articles
 
+- [DeepSeek Harness 插件装好了，但聊天框还是发不出去：我的模型配置排查](articles/zh/deepseek-harness-plugin-chat-not-sending-model-setup.md) · [English](articles/en/deepseek-harness-plugin-chat-not-sending-model-setup.en.md)
 - [DeepSeek Harness 里的模型越来越多：我为什么先装了一个可搜索的模型选择器](articles/zh/deepseek-harness-searchable-model-picker.md) · [English](articles/en/deepseek-harness-searchable-model-picker.en.md)
 - [DeepSeek Harness 最佳搭配：LLM API 精选与接入指南](articles/zh/deepseek-harness-llm-api-guide.md) · [English](articles/en/deepseek-harness-llm-api-guide.en.md)
 - [DeepSeek Harness 实战：从 Demo 到可控成本](articles/zh/deepseek-harness-demo-to-controlled-cost.md) · [English](articles/en/deepseek-harness-demo-to-controlled-cost.en.md)
