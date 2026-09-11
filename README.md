@@ -13,6 +13,7 @@
 
 ## Articles
 
+- [Agent 的预览和实际调用，不一定是同一件事](articles/zh/agent-preview-vs-actual-tool-call.md) · [English](articles/en/agent-preview-vs-actual-tool-call.en.md)
 - [同一个 API Key，为什么聊天能用，Agent 却不工作？](articles/zh/same-api-key-chat-works-agent-fails.md) · [English](articles/en/same-api-key-chat-works-agent-fails.en.md)
 - [DeepSeek Harness 插件装好了，但聊天框还是发不出去：我的模型配置排查](articles/zh/deepseek-harness-plugin-chat-not-sending-model-setup.md) · [English](articles/en/deepseek-harness-plugin-chat-not-sending-model-setup.en.md)
 - [DeepSeek Harness 里的模型越来越多：我为什么先装了一个可搜索的模型选择器](articles/zh/deepseek-harness-searchable-model-picker.md) · [English](articles/en/deepseek-harness-searchable-model-picker.en.md)
