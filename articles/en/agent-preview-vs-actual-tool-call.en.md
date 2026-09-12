@@ -18,6 +18,8 @@ My rule is simple: for a write, the final arguments should still correspond to t
 
 I prefer having the agent create a short preview ID, then passing that ID and its allowed targets to the execution layer. The write tool only accepts files, fields, or actions already present in that preview.
 
+I added a smallest-possible example with no API key: [preview-check.mjs](../../examples/preview-check.mjs). It permits a write to the previewed `README.md`, but blocks a different path arriving under the same preview ID. Run it with `node examples/preview-check.mjs`.
+
 It does not need to become a heavyweight approval system. It just stops “I will change A” from quietly becoming “B was changed” halfway through a run.
 
 The same caution applies to model toolchains. Models differ in tool calls, retries, and streaming. I have used an OpenAI-compatible aggregation endpoint (SupaNexus) to compare routes, but one API key reaching several models is not proof that those models behave the same way around writes.

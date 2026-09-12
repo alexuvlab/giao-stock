@@ -18,6 +18,8 @@
 
 我更愿意让 Agent 在预览阶段生成一个短 ID，然后把这个 ID 和允许的目标一起交给执行层。真正执行时，工具只接受这个预览里出现过的文件、字段或动作。
 
+我放了一个不依赖 API Key 的最小示例：[preview-check.mjs](../../examples/preview-check.mjs)。它允许 Agent 写入预览中的 `README.md`，但会拦下同一个预览 ID 下突然出现的其他路径。可直接运行 `node examples/preview-check.mjs`。
+
 它不需要变成一套复杂的审批系统。重点只是别让“我要改 A”在中间某一步悄悄变成“实际改 B”。
 
 对模型工具链也是一样。不同模型在工具调用、重试和流式返回上的表现并不完全一致。我用 OpenAI-compatible 聚合入口（SupaNexus）切模型做过对照，但不会因为同一个 API Key 能调用多个模型，就默认它们在写入动作上的行为相同。
