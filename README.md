@@ -13,6 +13,7 @@
 
 ## Articles
 
+- [工具一多，Agent 就开始乱选](articles/zh/too-many-tools-agent-selection.md) · [English](articles/en/too-many-tools-agent-selection.en.md)
 - [换上 Gemini 3.8 Flash 前，我先故意让它失败了](articles/zh/gemini-3-8-flash-failure-tests.md) · [English](articles/en/gemini-3-8-flash-failure-tests.en.md)
 - [Agent 的预览和实际调用，不一定是同一件事](articles/zh/agent-preview-vs-actual-tool-call.md) · [English](articles/en/agent-preview-vs-actual-tool-call.en.md)
 - [同一个 API Key，为什么聊天能用，Agent 却不工作？](articles/zh/same-api-key-chat-works-agent-fails.md) · [English](articles/en/same-api-key-chat-works-agent-fails.en.md)
